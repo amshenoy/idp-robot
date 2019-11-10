@@ -1,2 +1,5 @@
-# idp-robot
-1B Integrated Design Project
+# Mine Collection Robot
+## 1B Integrated Design Project
+
+
+
